@@ -15,7 +15,8 @@ Passport
 OAuth2
 
 
-## Directory Structure
+## File Structure
+
 
 
 |-- Authentication System
